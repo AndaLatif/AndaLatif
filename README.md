@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="Fotter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndaLatif&style=flat-square&color=blue" alt=""/>
+</div>
